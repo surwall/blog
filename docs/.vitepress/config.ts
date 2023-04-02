@@ -2,11 +2,15 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-CN',
   base: '/',
+  lastUpdated: true,
   title: '前端学习',
   description: 'stay awesome',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    docFooter: { prev: '上一页', next: '下一页' },
+    lastUpdatedText: '上次更新时间',
     nav: [
       {
         text: 'java',
