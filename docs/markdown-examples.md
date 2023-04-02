@@ -32,8 +32,6 @@ export default {
 }
 ```
 
-
-
 ## Custom Containers
 
 **Input**
