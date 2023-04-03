@@ -5,12 +5,25 @@ export default defineConfig({
   lang: 'zh-CN',
   base: '/',
   lastUpdated: true,
-  title: '前端学习',
+  title: "surwall's blog",
   description: 'stay awesome',
+  /* markdown 配置 */
+  markdown: {
+    lineNumbers: true,
+  },
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     docFooter: { prev: '上一页', next: '下一页' },
+    outline: {
+      label: '本页目录',
+    },
     lastUpdatedText: '上次更新时间',
+    logo: '/icons/logo.jpg',
+    editLink: {
+      text: '编辑此页面',
+      pattern: 'https://github.com/surwall/blog/edit/master/docs/:path',
+    },
     nav: [
       {
         text: 'java',
@@ -29,11 +42,11 @@ export default defineConfig({
       },
       {
         text: '安卓',
-        items: [{ text: '环境配置', link: '/android/env/' }],
+        items: [{ text: '环境配置', link: '/android/env/toolchain' }],
       },
       {
         text: 'ios',
-        items: [{ text: '环境配置', link: '/ios/env/' }],
+        items: [{ text: '环境配置', link: '/ios/env/toolchain' }],
       },
     ],
 
@@ -42,6 +55,11 @@ export default defineConfig({
       '/front-end/env': [{ text: '', link: '/front-end/' }],
       '/front-end/js': [{ text: 'promise详解', link: '/front-end/js/promise' }],
       '/android/env': [{ text: '工具安装', link: '/android/env/toolchain' }],
+      '/nav': [
+        { text: '前端导航', link: '/nav/front-end' },
+        { text: '编程导航', link: '/nav/coding' },
+        { text: '通用导航', link: '/nav/generic' },
+      ],
     },
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/surwall' }],
