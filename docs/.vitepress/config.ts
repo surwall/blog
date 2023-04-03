@@ -11,6 +11,12 @@ export default defineConfig({
   markdown: {
     lineNumbers: true,
   },
+  head: [
+    [
+      'link',
+      { rel: 'shortcut icon', href: '/favicon.ico', type: 'image/x-icon' },
+    ],
+  ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
