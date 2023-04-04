@@ -3,13 +3,13 @@
     "title": "图书下载",
     "items": [
       {
-        "icon": "https://libgen.is/favicon.ico",
+        "icon": "/public/sites/libgen.ico",
         "title": "Library Genesis",
         "desc": "Library Genesis",
         "link": "https://libgen.is/"
       },
       {
-        "icon": "https://libgen.is/favicon.ico",
+        "icon": "",
         "title": "鸠摩搜书",
         "desc": "",
         "link": "https://www.jiumosearch.com/"
@@ -33,7 +33,7 @@
         "link": "https://www.manning.com/"
       },
       {
-        "icon": "",
+        "icon": "/public/sites/oreilly.png",
         "title": "oreilly book search",
         "desc": "",
         "link": "https://www.oreilly.com/search/?q=*&type=article&type=book&type=journal&rows=10"

@@ -42,6 +42,18 @@
         "icon": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/apple-touch-icon.png",
         "desc": "面向全球中文开发者的技术内容分享与交流平台",
         "link": "https://juejin.cn"
+      },
+      {
+        "title": "webdev",
+        "desc": "chrome team site",
+        "icon": "/public/sites/webdev.png",
+        "link": "https://web.dev/blog/"
+      },
+      {
+        "title": "css tricks",
+        "desc": "Daily articles about CSS, HTML, JavaScript,",
+        "icon": "https://css-tricks.com/favicon.svg",
+        "link": "https://css-tricks.com/"
       }
     ]
   },
@@ -220,7 +232,7 @@
         "link": "https://developers.weixin.qq.com/miniprogram/dev/framework/"
       },
       {
-        "icon": "/icons/taro.svg",
+        "icon": "",
         "title": "Taro",
         "desc": "多端统一开发解决方案",
         "link": "https://taro.jd.com"
@@ -243,7 +255,7 @@
     "title": "Node 相关",
     "items": [
       {
-        "icon": "/icons/nodejs.svg",
+        "icon": "https://nodejs.org/static/images/favicons/favicon.png",
         "title": "Node.js",
         "desc": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境",
         "link": "https://nodejs.org/zh-cn"
@@ -255,7 +267,7 @@
         "link": "https://expressjs.com"
       },
       {
-        "icon": "/icons/koa.svg",
+        "icon": "",
         "title": "Koa",
         "desc": "基于 Node.js 平台的下一代 web 开发框架",
         "link": "https://koajs.com"
@@ -411,6 +423,41 @@
         "title": "Emoji searcher",
         "desc": "Emoji 表情大全",
         "link": "https://emoji.muan.co/"
+      }
+    ]
+  },
+  {
+    "title": "跨端框架",
+    "items": [
+      {
+        "icon": "https://reactnative.dev/img/favicon.ico",
+        "title": "react native",
+        "desc": "Learn once, write anywhere.",
+        "link": "https://reactnative.dev/docs/environment-setup"
+      },
+      {
+        "icon": "https://www.electronjs.org/assets/img/logo.svg",
+        "title": "electron",
+        "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+        "link": "https://www.electronjs.org/docs/latest/"
+      },
+      {
+        "icon": "/public/sites/flutter.png",
+        "title": "flutter",
+        "desc": "Beautiful apps for every screen",
+        "link": "https://docs.flutter.dev/get-started/install"
+      },
+      {
+        "icon": "https://cordova.apache.org/favicon.ico",
+        "title": "cordova",
+        "desc": "mobile apps with HTML,CSS & JS",
+        "link": "https://cordova.apache.org/"
+      },
+      {
+        "icon": "https://ionicframework.com/apple-icon-120x120.png",
+        "title": "ionic",
+        "desc": "跨平台ui框架，类似uniapp",
+        "link": "https://ionicframework.com/"
       }
     ]
   }

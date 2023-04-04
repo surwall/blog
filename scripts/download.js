@@ -1,7 +1,6 @@
 import path from 'path'
 import axios from 'axios'
 import fs from 'fs'
-import { getFavIcoFromGoogle } from './download.js'
 
 import { fileURLToPath } from 'url'
 
@@ -9,12 +8,15 @@ import { fileURLToPath } from 'url'
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+
+
+
 /**
  * 
  * @param {*} site 
  * @param {*} size 'big' | 'small'
  */
-export function getFavIcoFromGoogle(url, imagePath, size = 'big') {
+function getFavIcoFromGoogle(url, imagePath, size = 'big') {
   let searchPath = `https://www.google.com/s2/favicons?domain=${encodeURIComponent(url)}&sz=${size === 'big' ? '128' : 16}`
   return axios.get(searchPath, {
     responseType: 'stream'
@@ -25,6 +27,20 @@ export function getFavIcoFromGoogle(url, imagePath, size = 'big') {
   }))
 }
 
-export function getFavEasy(url) {
-  getFavIcoFromGoogle(url, path.join(__dirname, '../' + url + '.png'))
+
+function getFavEasy(url) {
+  getFavIcoFromGoogle(url, path.join(__dirname, Math.random().toFixed(5) + '.png'))
+}
+
+
+let arr = [
+  `
+  
+https://cordova.apache.org/
+  
+  `,
+]
+
+for (let item of arr) {
+  getFavEasy(item.trim())
 }

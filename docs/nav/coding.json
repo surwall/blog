@@ -4,15 +4,9 @@
     "items": [
       {
         "desc": "图灵社区",
-        "icon": "dsf",
+        "icon": "https://www.ituring.com.cn/favicon.png",
         "link": "https://www.ituring.com.cn/",
         "title": "图灵社区"
-      },
-      {
-        "desc": "",
-        "icon": "",
-        "link": "https://www.baidu.com",
-        "title": "hello"
       }
     ]
   },
@@ -21,7 +15,7 @@
     "items": [
       {
         "desc": "json schema标准",
-        "icon": "",
+        "icon": "https://json-schema.org/understanding-json-schema/_static/logo.ico",
         "title": "json schema",
         "link": "https://json-schema.org/understanding-json-schema/index.html"
       }
@@ -35,25 +29,25 @@
         "desc": "microsoft obj best practices",
         "title": "objc-guide",
         "link": "https://microsoft.github.io/objc-guide/",
-        "icon": ""
+        "icon": "/public/sites/apple.png"
       },
       {
         "desc": "The best investment for your mobile development career",
         "link": "https://www.kodeco.com/books",
         "title": "koedco/raywenderlich",
-        "icon": ""
+        "icon": "/public/sites/raywenderlich.png"
       },
       {
         "desc": "develop apps for ios",
         "title": "ios official tutorial",
         "link": "https://developer.apple.com/tutorials/app-dev-training#swiftui-essentials",
-        "icon": ""
+        "icon": "/public/sites/apple.png"
       },
       {
         "title": "apple api docs",
         "desc": "apple documentation",
         "link": "https://developer.apple.com/documentation/technologies",
-        "icon": ""
+        "icon": "/public/sites/apple.png"
       }
     ]
   },
@@ -64,19 +58,19 @@
         "title": "桌面开发",
         "desc": "build desktop apps",
         "link": "https://learn.microsoft.com/en-us/windows/apps/desktop/",
-        "icon": ""
+        "icon": "/public/sites/microsoft.png"
       },
       {
         "title": "powershell",
         "desc": "powershell official docs",
         "link": "https://learn.microsoft.com/en-us/powershell/scripting/",
-        "icon": ""
+        "icon": "/public/sites/microsoft.png"
       },
       {
         "title": "win32 api",
         "desc": "Build desktop Windows apps using the Win32 API",
         "link": "https://learn.microsoft.com/en-us/windows/win32/",
-        "icon": ""
+        "icon": "/public/sites/microsoft.png"
       }
     ]
   }
