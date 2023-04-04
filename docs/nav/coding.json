@@ -29,28 +29,42 @@
         "desc": "microsoft obj best practices",
         "title": "objc-guide",
         "link": "https://microsoft.github.io/objc-guide/",
-        "icon": "/public/sites/apple.png"
+        "icon": "/sites/apple.png"
       },
       {
         "desc": "The best investment for your mobile development career",
         "link": "https://www.kodeco.com/books",
         "title": "koedco/raywenderlich",
-        "icon": "/public/sites/raywenderlich.png"
+        "icon": "/sites/raywenderlich.png"
       },
       {
         "desc": "develop apps for ios",
         "title": "ios official tutorial",
         "link": "https://developer.apple.com/tutorials/app-dev-training#swiftui-essentials",
-        "icon": "/public/sites/apple.png"
+        "icon": "/sites/apple.png"
       },
       {
         "title": "apple api docs",
         "desc": "apple documentation",
         "link": "https://developer.apple.com/documentation/technologies",
-        "icon": "/public/sites/apple.png"
+        "icon": "/sites/apple.png"
+      },
+
+      {
+        "desc": "Android for Developers",
+        "title": "官方文档",
+        "link": "https://developer.android.google.cn/guide",
+        "icon": "https://www.gstatic.cn/devrel-devsite/prod/vc7c98be6f4d139e237c3cdaad6a00bb295b070a83e505cb2fa4435daae3d0901/android/images/touchicon-180.png"
+      },
+      {
+        "desc": "安卓依赖管理",
+        "title": "gradle",
+        "link": "https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:repository-types",
+        "icon": "/sites/gradle.ico"
       }
     ]
   },
+
   {
     "title": "windows相关",
     "items": [
@@ -58,19 +72,19 @@
         "title": "桌面开发",
         "desc": "build desktop apps",
         "link": "https://learn.microsoft.com/en-us/windows/apps/desktop/",
-        "icon": "/public/sites/microsoft.png"
+        "icon": "/sites/microsoft.png"
       },
       {
         "title": "powershell",
         "desc": "powershell official docs",
         "link": "https://learn.microsoft.com/en-us/powershell/scripting/",
-        "icon": "/public/sites/microsoft.png"
+        "icon": "/sites/microsoft.png"
       },
       {
         "title": "win32 api",
         "desc": "Build desktop Windows apps using the Win32 API",
         "link": "https://learn.microsoft.com/en-us/windows/win32/",
-        "icon": "/public/sites/microsoft.png"
+        "icon": "/sites/microsoft.png"
       }
     ]
   }

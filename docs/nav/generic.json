@@ -3,7 +3,7 @@
     "title": "图书下载",
     "items": [
       {
-        "icon": "/public/sites/libgen.ico",
+        "icon": "/sites/libgen.ico",
         "title": "Library Genesis",
         "desc": "Library Genesis",
         "link": "https://libgen.is/"
@@ -33,7 +33,7 @@
         "link": "https://www.manning.com/"
       },
       {
-        "icon": "/public/sites/oreilly.png",
+        "icon": "/sites/oreilly.png",
         "title": "oreilly book search",
         "desc": "",
         "link": "https://www.oreilly.com/search/?q=*&type=article&type=book&type=journal&rows=10"

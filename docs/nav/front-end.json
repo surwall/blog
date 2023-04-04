@@ -46,7 +46,7 @@
       {
         "title": "webdev",
         "desc": "chrome team site",
-        "icon": "/public/sites/webdev.png",
+        "icon": "/sites/webdev.png",
         "link": "https://web.dev/blog/"
       },
       {
@@ -442,7 +442,7 @@
         "link": "https://www.electronjs.org/docs/latest/"
       },
       {
-        "icon": "/public/sites/flutter.png",
+        "icon": "/sites/flutter.png",
         "title": "flutter",
         "desc": "Beautiful apps for every screen",
         "link": "https://docs.flutter.dev/get-started/install"
