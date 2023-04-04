@@ -17,10 +17,10 @@ export default defineConfig({
       { rel: 'shortcut icon', href: '/favicon.ico', type: 'image/x-icon' },
     ],
   ],
-
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     docFooter: { prev: '上一页', next: '下一页' },
+    returnToTopLabel: '回到顶部',
     outline: {
       label: '本页目录',
     },

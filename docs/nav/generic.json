@@ -1,0 +1,43 @@
+[
+  {
+    "title": "图书下载",
+    "items": [
+      {
+        "icon": "https://libgen.is/favicon.ico",
+        "title": "Library Genesis",
+        "desc": "Library Genesis",
+        "link": "https://libgen.is/"
+      },
+      {
+        "icon": "https://libgen.is/favicon.ico",
+        "title": "鸠摩搜书",
+        "desc": "",
+        "link": "https://www.jiumosearch.com/"
+      },
+      {
+        "icon": "",
+        "title": "搬书匠",
+        "desc": "搬书匠",
+        "link": "http://www.banshujiang.cn/"
+      },
+      {
+        "icon": "",
+        "title": "no starch press",
+        "desc": "the finest in geek entertainment",
+        "link": "https://nostarch.com/"
+      },
+      {
+        "icon": "",
+        "title": "manning",
+        "desc": "press",
+        "link": "https://www.manning.com/"
+      },
+      {
+        "icon": "",
+        "title": "oreilly book search",
+        "desc": "",
+        "link": "https://www.oreilly.com/search/?q=*&type=article&type=book&type=journal&rows=10"
+      }
+    ]
+  }
+]

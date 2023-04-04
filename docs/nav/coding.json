@@ -1,0 +1,83 @@
+[
+  {
+    "title": "社区",
+    "items": [
+      {
+        "desc": "图灵社区",
+        "icon": "dsf",
+        "link": "https://www.ituring.com.cn/",
+        "title": "图灵社区"
+      },
+      {
+        "desc": "",
+        "icon": "",
+        "link": "https://www.baidu.com",
+        "title": "hello"
+      }
+    ]
+  },
+  {
+    "title": "数据格式",
+    "items": [
+      {
+        "desc": "json schema标准",
+        "icon": "",
+        "title": "json schema",
+        "link": "https://json-schema.org/understanding-json-schema/index.html"
+      }
+    ]
+  },
+
+  {
+    "title": "ios相关",
+    "items": [
+      {
+        "desc": "microsoft obj best practices",
+        "title": "objc-guide",
+        "link": "https://microsoft.github.io/objc-guide/",
+        "icon": ""
+      },
+      {
+        "desc": "The best investment for your mobile development career",
+        "link": "https://www.kodeco.com/books",
+        "title": "koedco/raywenderlich",
+        "icon": ""
+      },
+      {
+        "desc": "develop apps for ios",
+        "title": "ios official tutorial",
+        "link": "https://developer.apple.com/tutorials/app-dev-training#swiftui-essentials",
+        "icon": ""
+      },
+      {
+        "title": "apple api docs",
+        "desc": "apple documentation",
+        "link": "https://developer.apple.com/documentation/technologies",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "title": "windows相关",
+    "items": [
+      {
+        "title": "桌面开发",
+        "desc": "build desktop apps",
+        "link": "https://learn.microsoft.com/en-us/windows/apps/desktop/",
+        "icon": ""
+      },
+      {
+        "title": "powershell",
+        "desc": "powershell official docs",
+        "link": "https://learn.microsoft.com/en-us/powershell/scripting/",
+        "icon": ""
+      },
+      {
+        "title": "win32 api",
+        "desc": "Build desktop Windows apps using the Win32 API",
+        "link": "https://learn.microsoft.com/en-us/windows/win32/",
+        "icon": ""
+      }
+    ]
+  }
+]
