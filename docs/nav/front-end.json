@@ -27,7 +27,7 @@
     "items": [
       {
         "icon": "https://developer.mozilla.org/apple-touch-icon.6803c6f0.png",
-        "title": "MDN | Web 开发者指南",
+        "title": "MDN",
         "desc": "Mozilla 的开发者平台",
         "link": "https://developer.mozilla.org/en-US"
       },
@@ -54,6 +54,34 @@
         "desc": "Daily articles about CSS, HTML, JavaScript,",
         "icon": "https://css-tricks.com/favicon.svg",
         "link": "https://css-tricks.com/"
+      }
+    ]
+  },
+  {
+    "title": "angular生态",
+    "items": [
+      {
+        "icon": "https://www.typescriptlang.org/icons/icon-144x144.png",
+        "title": "TypeScript",
+        "desc": "",
+        "link": "https://www.typescriptlang.org/"
+      }
+    ]
+  },
+  {
+    "title": "工具库",
+    "items": [
+      {
+        "icon": "https://lodash.com/icons/apple-touch-180x180.png",
+        "title": "lodash",
+        "desc": "js工具库，提供常用工具函数",
+        "link": "https://lodash.com/"
+      },
+      {
+        "icon": "https://socket.io/images/logo.svg",
+        "title": "socket.io",
+        "desc": "Bidirectional and low-latency communication for every platform",
+        "link": "https://socket.io/"
       }
     ]
   },
