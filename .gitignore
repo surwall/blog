@@ -4,4 +4,5 @@ node_modules
 .vscode
 !.vscode/settings.json
 *.log
-
+pnpm-lock.yaml
+docs/dev-dist/
