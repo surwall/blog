@@ -73,8 +73,8 @@
 
 #### 系统制作[Todo]
 
-1. [Free] [rufus]()
-2. [Free] [ventoy]()
+1. [Free] rufus
+2. [Free] ventoy
 3. [Free] [u深度装机](http://www.ushendu.com/usddownload/)
    1. 系统恢复
 
