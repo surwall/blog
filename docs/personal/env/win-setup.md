@@ -11,12 +11,15 @@
 2. 包管理工具 
    1. [Free] [scoop](https://scoop.sh/)
 
-1. ~~[Free] [aria2c](https://aria2.github.io/) `scoop install main/aria2`~~
+3. ~~[Free] [aria2c](https://aria2.github.io/) `scoop install main/aria2`~~
    1. ~~Http,bt下载~~
    2. ~~开启监听模式~~ 
    3. ~~[配置](https://zhuanlan.zhihu.com/p/634443046)~~
+4. [软件列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
+5. [软件网站国内](https://www.ghxi.com)
 
+6. [软件网站国外](https://crackshash.com/)
 
 ## 软件列表
 
@@ -45,6 +48,11 @@
 | 文件管理       | 百度网盘 directory opctus                               |                      |
 | 快速预览       | `winget install QL-Win.QuickLook`                       |                      |
 | 文件搜索       | `winget install everything`                             | install as a service |
+| ssh            | `winget install Mobatek.MobaXterm`                      |                      |
+| 网站克隆       | `winget install XavierRoche.HTTrack`                    |                      |
+| 视频压缩       | `winget install HandBrake.HandBrake`                    |                      |
+|                |                                                         |                      |
+|                |                                                         |                      |
 |                |                                                         |                      |
 
 
@@ -82,4 +90,3 @@
 
 #### 硬件检测 [Todo]
 
-硬件检测还是可以
