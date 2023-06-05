@@ -20,32 +20,32 @@
 
 ## 软件列表
 
-| 用途           | 安装                                                    | 备注           |
-| -------------- | ------------------------------------------------------- | -------------- |
-| 系统tweak      | 百度云dism++                                            | 设置           |
-| 下载工具       | `winget install Tonec.InternetDownloadManager`          | 激活           |
-| 软件卸载       | `winget install GeekUninstaller.GeekUninstaller`        |                |
-| 压缩、解压缩   | 百度云bandizip                                          |                |
-| 查看文件被占用 | `winget install Microsoft.Sysinternals.ProcessExplorer` |                |
-| git            | `winget install -i Git.Git`                             |                |
-| 截图标注       | 百度云snipaste                                          |                |
-| 终端           | `winget install Microsoft.WindowsTerminal`              |                |
-| 百度网盘       | `winget install Baidu.BaiduNetdisk`                     |                |
-| 输入法         | `winget install Baidu.BaiduPinyin`                      |                |
-| 微信           | `winget install Tencent.WeChat`                         |                |
-| 代码编辑       | `winget install Microsoft.VisualStudioCode`             |                |
-| 磁盘占用分析   | `winget install AntibodySoftware.WizTree`               |                |
-| 右键菜单管理   | 百度云 ContextMenuManager                               |                |
-| markdown       | `winget install appmakes.Typora`                        | 付费，有旧版本 |
-| epub,cbr,DjVu  | `winget install SumatraPDF.SumatraPDF`                  |                |
-| 视频播放       | `winget install VideoLAN.VLC`                           |                |
-| 视频播放       | `winget install Daum.PotPlayer`                         |                |
-| 查看图片       | `winget install XnSoft.XnViewMP`                        |                |
-| 查看图片*      | `winget install FastStone.Viewer`                       | 可选           |
-| 文件管理       | 百度网盘 directory opctus                               |                |
-| 快速预览       | `winget install QL-Win.QuickLook`                       |                |
-|                |                                                         |                |
-|                |                                                         |                |
+| 用途           | 安装                                                    | 备注                 |
+| -------------- | ------------------------------------------------------- | -------------------- |
+| 系统tweak      | 百度云dism++                                            | 设置                 |
+| 下载工具       | `winget install Tonec.InternetDownloadManager`          | 激活                 |
+| 软件卸载       | `winget install GeekUninstaller.GeekUninstaller`        |                      |
+| 压缩、解压缩   | 百度云bandizip                                          |                      |
+| 查看文件被占用 | `winget install Microsoft.Sysinternals.ProcessExplorer` |                      |
+| git            | `winget install -i Git.Git`                             |                      |
+| 截图标注       | 百度云snipaste                                          |                      |
+| 终端           | `winget install Microsoft.WindowsTerminal`              |                      |
+| 百度网盘       | `winget install Baidu.BaiduNetdisk`                     |                      |
+| 输入法         | `winget install Baidu.BaiduPinyin`                      |                      |
+| 微信           | `winget install Tencent.WeChat`                         |                      |
+| 代码编辑       | `winget install Microsoft.VisualStudioCode`             |                      |
+| 磁盘占用分析   | `winget install AntibodySoftware.WizTree`               |                      |
+| 右键菜单管理   | 百度云 ContextMenuManager                               |                      |
+| markdown       | `winget install appmakes.Typora`                        | 付费，有旧版本       |
+| epub,cbr,DjVu  | `winget install SumatraPDF.SumatraPDF`                  |                      |
+| 视频播放       | `winget install VideoLAN.VLC`                           |                      |
+| 视频播放       | `winget install Daum.PotPlayer`                         |                      |
+| 查看图片       | `winget install XnSoft.XnViewMP`                        |                      |
+| 查看图片*      | `winget install FastStone.Viewer`                       | 可选                 |
+| 文件管理       | 百度网盘 directory opctus                               |                      |
+| 快速预览       | `winget install QL-Win.QuickLook`                       |                      |
+| 文件搜索       | `winget install everything`                             | install as a service |
+|                |                                                         |                      |
 
 
 
@@ -81,3 +81,5 @@
 #### 硬盘检测 [Todo]
 
 #### 硬件检测 [Todo]
+
+硬件检测还是可以
